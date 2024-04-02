@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["너무 쉽겐 오지 마","near but far... 이유?"];
+const statusMessages = ["are you listening? i don't think so","So.. 너무 쉽겐 오지 마","near but far... 이유?"];
 
 
 let currentIndex = 0;
